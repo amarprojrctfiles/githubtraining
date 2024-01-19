@@ -1,7 +1,7 @@
-Print("hello")
+print("hello")
 print("my name is amar")
-print(below code for adding)
+print("below code for adding")
 
-hee brother
+# hee brother
 
-i want to add unsertan changes 
+# i want to add unsertan changes 
